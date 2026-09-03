@@ -1,0 +1,6 @@
+{
+  "name": "PHC-SAKSHAM",
+  "description": "Community healthcare coordination and AI risk-prioritisation mobile prototype for ASHA workers and PHC clinical supervision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
